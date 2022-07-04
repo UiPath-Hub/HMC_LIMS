@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=SpecSDCMaint&amp;multisdimode=EditSet&amp;navigatornodeid=EditSetVersioned" ContentHash="FefH1MiNk0SFmnIXnsEc9g" DesignTimeRectangle="507, 177, 43, 18" ElementType="Text" FriendlyName="'Return'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' type='' check:text='Return' /&gt;" Guid="79b6e3c7-4919-40a5-85f7-85e83ecd7293" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='7855-604b' title='Edit Specification HP748H D2502' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="365, 177, 100, 18" ElementType="Text" FriendlyName="'Reset Approvals'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Reset Approvals' parentid='ResetSDIApproval' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Reset Approvals' parentid='ResetSDIApproval' tag='DIV' type='' check:text='Reset Approvals' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1GvQc_rH7BESI7egzrBM_Ow</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0f4hsLeFayk-iBnvKQt8jzw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2ca16d0b276437fe1e34c814138196fd.png" xmlns="">0eFVQ_jWv_Eyqc8uotlhADw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=login" ContentHash="UIBUNlXax0OWqV1mgEnd7A" DesignTimeRectangle="737, 322, 462, 484" FriendlyName="'Sign into'" FullSelectorArgument="&lt;webctrl id='content' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='content' tag='DIV' type='' aaname='                                         ' check:text='Sign into labvantage&amp;#xD;&amp;#xA;        &amp;#xD;&amp;#xA;&amp;#xD;&amp;#xA;&amp;#xD;&amp;#xA;        &amp;#xD;&amp;#xA;&amp;#xD;&amp;#xA;            &amp;#xD;&amp;#xA;                &amp;#xD;&amp;#xA;                Invalid' /&gt;" Guid="a8454426-22f5-4dcb-a753-241353845e06" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='9988-9268' title='LabVantage Logon' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="24, 98, 150, 26" ElementType="Icon" FriendlyName="'IMG'" FullSelectorArgument="&lt;webctrl tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='IMG' type='' aaname='LabVantage8.3 Build 0830.212.01 19-Sep-2017 09:39PM (Patch 00) ' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1KaMeh0duNUa8BMSQUVzytA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0qG0j7zxIH0Wa19qrnohd1Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4975110b85b371d4438f87a2579c668d.png" xmlns="">0y_yxmQiNyU2UQSEEliLorQ</imageRef>
+</TargetAnchorable>

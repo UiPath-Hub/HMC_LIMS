@@ -1,0 +1,13 @@
+﻿{
+  "Id": "NEjhBxAjsUK349I6IkUgQw",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/NEjhBxAjsUK349I6IkUgQw",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/rMfHoxQTf0y1AiBG2hAF2w",
+  "Name": "LOG_IN_FAILED_SCREEN_SHOT",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-06-27T02:47:05.8442931Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-27T02:47:05.8442931Z"
+}

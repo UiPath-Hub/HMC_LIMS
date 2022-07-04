@@ -1,0 +1,14 @@
+﻿{
+  "Id": "v-Yu24nlEkejHSwqgEfgCQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/v-Yu24nlEkejHSwqgEfgCQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "SPOTANALYSIS_SCREENSHOT",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-26T15:49:12.2545575Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-26T15:49:12.2545575Z"
+}

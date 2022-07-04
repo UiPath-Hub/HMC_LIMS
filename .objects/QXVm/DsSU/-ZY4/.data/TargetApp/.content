@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="8KfQEoGIfEmjWTK_Qho72g" Selector="&lt;html app='chrome.exe' htmlwindowname='8466-7956' title='Specification List'/&gt;" Url="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2610251&amp;wid=8466-7956" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">07A1XDnEoMEGPDy4F2bfTkg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7b7892d13b5aecd4719fd56630b17452.png" xmlns="">0FMaPOHsTtU6AQ-zJF1Kgmg</imageRef>
+</TargetApp>

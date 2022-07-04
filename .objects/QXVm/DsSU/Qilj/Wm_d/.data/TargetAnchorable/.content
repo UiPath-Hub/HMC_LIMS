@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackClassify&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1651134325479" ContentHash="-OmWv_38g0WNZgcwYxa9WQ" DesignTimeRectangle="220, 521, 693, 108" ElementType="InputBox" FriendlyName="'TEXTAREA pr0_u_commentqc'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='pr0_u_commentqc' tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='pr0_u_commentqc' tag='TEXTAREA' type='' aaname='' /&gt;" Guid="4820cd5e-7833-409c-b013-2dfd7b850078" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='c67f-9732' title='Batch Pack Out : 60093524' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="46, 516, 170, 120" ElementType="Text" FriendlyName="'Comment QC'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Batch' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tableRow='15' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Batch' tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' aaname='Comment QC' check:text='Comment QC' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">9W0T1Ksi2ukamdIyb3KTwag</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">08hvZbn5VUkSJsHFL6z0-Sw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c8dac74784c0df5dfd9ba8107d356cfd.png" xmlns="">0LExu-L5PpESdhLy74Njvuw</imageRef>
+</TargetAnchorable>

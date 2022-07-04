@@ -1,0 +1,14 @@
+﻿{
+  "Id": "oza0TB-bT0iiNTBSYu4QXg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/oza0TB-bT0iiNTBSYu4QXg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/PF7Dvz79qkuh_QRP9o3iOg",
+  "Name": "SCREEN_SHOT_BLEND_AND_PACK_OUT_TABLE",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-26T15:37:55.3751697Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-26T15:37:55.3751697Z"
+}

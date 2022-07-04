@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="ERbGJLlGM0e6wXTg3MDLhA" DesignTimeRectangle="38, 773, 2076, 78" FriendlyName="'Param List'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='speclimits_table' tag='TBODY' /&gt;" Guid="8a14d3c5-4781-4a39-a8bb-ee98448471a3" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='7c78-e59e' title='Edit Specification HP748H D2502' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="d5a33c5680a4b863501283333e94a5c0.png" xmlns="">0E14S3gxLuka90GQt2UIq8Q</imageRef>
+</TargetAnchorable>

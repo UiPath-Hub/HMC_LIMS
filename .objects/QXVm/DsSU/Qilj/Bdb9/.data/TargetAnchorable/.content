@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackClassify&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1651134325479" ContentHash="xNaxuBZBYEKoHBj-LxlJFw" DesignTimeRectangle="297, 375, 49, 18" ElementType="RadioButton" FriendlyName="'Standard'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='pr0_u_classresult_radio' tag='DIV' /&gt;" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='pr0_u_classresult_radio' tag='DIV' type='' aaname='{0}' check:text='{0}' /&gt;&quot;, strClassifyResult)]" Guid="fd32026e-1352-4cee-b615-ea3b6b652728" Reference="ravHvc9Fl0KflCa7O_MBLA/Bdb9yy0CI0e2eGb7-DvR2g" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='c67f-9732' title='Batch Pack Out : 60093524' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="40, 371, 110, 26" FriendlyName="'Classify Result *'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Classify Result' tag='TABLE' /&gt;&lt;webctrl tableRow='4' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Classify Result' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='Classify Result ' check:text='Classify Result *' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1SF2X-8DST0CSSLbTKuLYnQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0xb2Mu0L_SEGjma63KfRJxQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="758a8086d5f493e4401a3f1b059cc06f.png" xmlns="">043ugzkRcI0GbfCrajJmk6g</imageRef>
+</TargetAnchorable>

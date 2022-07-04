@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="sgIE3vtzP0K5beFQDScVSQ" DesignTimeRectangle="20, 410, 1908, 218" FriendlyName="'Progress Sample ID Prod…'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl id='list_list' tag='TABLE' /&gt;" Guid="78f3c40e-7e88-4f29-9e3a-477e32fa174e" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='c67f-9732' title='Sample List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="dbfbf1bccacdee07507a7aa86d1e045c.png" xmlns="">0YY_EbsPd_Em1DQjwaCPs8A</imageRef>
+</TargetAnchorable>

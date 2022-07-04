@@ -1,0 +1,15 @@
+﻿{
+  "Id": "50mfg_Ub00OIUlJhDfNRDg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/50mfg_Ub00OIUlJhDfNRDg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "SPECIFIACATION_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-06-09T07:33:54.7718504Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-21T06:13:22.8073553Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

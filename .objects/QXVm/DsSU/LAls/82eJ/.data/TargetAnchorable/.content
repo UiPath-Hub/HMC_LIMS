@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackOut" ContentHash="6vWII5pTvUSQPCkzOZS5SQ" DesignTimeRectangle="47, 171, 50, 30" FriendlyName="'Save *'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Save' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Save' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Save *' /&gt;" Guid="cfa24a53-ddf7-43af-ac21-e4e22e6c3029" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='e7fd-b30c' title='Batch Pack Out 60115826' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="128, 171, 53, 30" FriendlyName="'Return'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='ReturnToList' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='ReturnToList' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Return' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">18LJeSbCdKUWpBvKQeI3DqA</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="212, 171, 128, 30" FriendlyName="'Generate Pack Out'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='GenLotPack' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='GenLotPack' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Generate Pack Out' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">19xaIiB6EzKkqRA6wyNE1RuQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_rUiKhlW9kmTUvcueQLY3Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="34ad81f795244ceafb6430e7ccceed92.png" xmlns="">0CW8U1BtHDUWjUaeINqmsuA</imageRef>
+</TargetAnchorable>

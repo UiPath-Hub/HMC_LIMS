@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="b0MpBBGCkUyjQD7OJApXpA" Reference="ravHvc9Fl0KflCa7O_MBLA/sn-bw57ik0SjkCqu_dWLOQ" Selector="&lt;html app='chrome.exe' htmlwindowname='c67f-9732' title='Blend &amp;amp; Pack Out List' /&gt;" Url="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2609444&amp;wid=c67f-9732" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0bOnrwFfnR0m811MNnltXJg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="446cb128f16aa20d81436034eb20aeff.png" xmlns="">0O-b-J-tSDkuL1PMOh_cQOw</imageRef>
+</TargetApp>

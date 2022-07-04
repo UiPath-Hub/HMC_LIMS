@@ -1,0 +1,13 @@
+﻿{
+  "Id": "lKjMBYA6-0ay_KbLD5_ZZA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/lKjMBYA6-0ay_KbLD5_ZZA",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/50mfg_Ub00OIUlJhDfNRDg",
+  "Name": "SPEC_RANGE",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-06-09T07:53:36.8824959Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-09T07:53:36.8824959Z"
+}

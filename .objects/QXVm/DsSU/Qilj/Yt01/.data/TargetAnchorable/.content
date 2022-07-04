@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;sdcid=" ContentHash="61FUZst3ZEyZNwBuOC_uXw" DesignTimeRectangle="389, 296, 121, 22" ElementType="Text" FriendlyName="'Select &amp; Return'" FullSelectorArgument="&lt;webctrl id='dlg_frame6' tag='IFRAME' /&gt;&lt;webctrl aaname='Select &amp;amp; Return' parentid='SelectReturn' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dlg_frame6' tag='IFRAME' /&gt;&lt;webctrl aaname='Select &amp;amp; Return' parentid='SelectReturn' tag='DIV' type='' check:text='Select &amp;amp; Return' /&gt;" Guid="630018ce-caba-4522-a45d-b563c624bc23" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='6e54-3786' title='Batch Pack Out : 60116185' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="265, 296, 83, 20" ElementType="Text" FriendlyName="'Select User'" FullSelectorArgument="&lt;webctrl id='dlg_frame6' tag='IFRAME' /&gt;&lt;webctrl id='ribbon_pagetitle' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dlg_frame6' tag='IFRAME' /&gt;&lt;webctrl id='ribbon_pagetitle' tag='DIV' type='' aaname='Select User' check:text='Select User' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1ujL_uYra0EuN-DbxeX9o4Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0kmZIcwkQx0y_RxltQY9myA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cbf055f4c50418f73ea5cad2d909e5b3.png" xmlns="">04L_pn9rCfUSbkEaLt1gtLQ</imageRef>
+</TargetAnchorable>

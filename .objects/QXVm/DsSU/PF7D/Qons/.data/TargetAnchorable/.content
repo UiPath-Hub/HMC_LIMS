@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="QWXUHdNf0EW4YzVlzbvz4g" DesignTimeRectangle="38, 452, 1208, 435" FriendlyName="'MFR 230C/2.16'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='LotPO' tag='TBODY' /&gt;" Guid="9b162461-62b6-4796-bbdd-89b439e2947f" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='2c84-bec4' title='Verify Pack Out Batch 60115926' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="b7b1b2c5d3c44da615520bd08e1ae96d.png" xmlns="">0Z-3oh-ldfkq2RrqlltlMgA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="PltEW6mA90OE6P-KAu9_Aw" DesignTimeRectangle="18, 303, 1910, 329" FriendlyName="'Product Type'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl id='list_tablebody' tag='TBODY' /&gt;" Guid="b362e735-aa2f-426f-a14c-1470408bda90" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='29a7-cd15' title='Sample List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="527fbe1aebb7feeaf21badad7249dd83.png" xmlns="">0C7tjwMp210apiD6Z0ehzCQ</imageRef>
+</TargetAnchorable>

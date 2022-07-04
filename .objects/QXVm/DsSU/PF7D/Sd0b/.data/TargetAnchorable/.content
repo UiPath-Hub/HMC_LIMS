@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;sdcid=" ContentHash="Rd0HRojtJUCnps7IDKhuiA" DesignTimeRectangle="383, 288, 133, 38" FriendlyName="'Select &amp; Return'" FullSelectorArgument="&lt;webctrl id='dlg_frame9' tag='IFRAME' /&gt;&lt;webctrl id='SelectReturn' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dlg_frame9' tag='IFRAME' /&gt;&lt;webctrl id='SelectReturn' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Select &amp;amp; Return' /&gt;" Guid="11048f40-944a-4640-b0ca-1036ec70ab51" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='c67f-9732' title='Batch Pack Out : 60093524' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="265, 296, 83, 20" ElementType="Text" FriendlyName="'Select User'" FullSelectorArgument="&lt;webctrl id='dlg_frame9' tag='IFRAME' /&gt;&lt;webctrl id='ribbon_pagetitle' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dlg_frame9' tag='IFRAME' /&gt;&lt;webctrl id='ribbon_pagetitle' tag='DIV' type='' aaname='Select User' check:text='Select User' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1P3UmGmzeN0ChEMBrSFiAfQ</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="546, 288, 64, 38" FriendlyName="'Cancel'" FullSelectorArgument="&lt;webctrl id='dlg_frame9' tag='IFRAME' /&gt;&lt;webctrl id='Cancel' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dlg_frame9' tag='IFRAME' /&gt;&lt;webctrl id='Cancel' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Cancel' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">2VIuYfHNz70umcF3CS_xZnA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0bQayj3pqxEOus_BfIWQgYQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fdddbe26b9cff8d02c18e47aac53b912.png" xmlns="">0hcy7WFCkqkKAez97lTPirw</imageRef>
+</TargetAnchorable>

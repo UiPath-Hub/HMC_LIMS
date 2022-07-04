@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotManageMaint2&amp;multisdimode=EditSet|}" ContentHash="Uu9SaT01hU2QTRIX_k7org" DesignTimeRectangle="249, 251, 133, 38" FriendlyName="'Verify Pack Out'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Verify' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Verify' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Verify Pack Out' /&gt;" Guid="8b015ee0-fcb4-4c29-8df6-8c3521dc5077" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='c67f-9732' title='Verify Pack Out Batch 60093524' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="144, 251, 66, 38" FriendlyName="'Return'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='ReturnToList' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='ReturnToList' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Return' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1RtrDI7Ljp0Gs-CZbZPYjiQ</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="427, 259, 175, 22" ElementType="Text" FriendlyName="'Send E-Mail to Classify'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Send E-Mail to Classify' parentid='Send to Classify' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Send E-Mail to Classify' parentid='Send to Classify' tag='DIV' type='' check:text='Send E-Mail to Classify' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">2rDvxYgpv_02WGZeb7VIshA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0gRXH8zPE4UCoNuGhJiLMoA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ce69762e68d2563eb44dfa810a4c50fa.png" xmlns="">0N8t3GRcSdE69IjhcSBW9nQ</imageRef>
+</TargetAnchorable>

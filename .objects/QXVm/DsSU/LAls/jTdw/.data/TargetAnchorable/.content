@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackOut&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1651130864698" ContentHash="YO_H3yX7QEiII0wJl7efiw" DesignTimeRectangle="892, 549, 210, 25" ElementType="InputBox" FriendlyName="'05/02/19 16:44'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='pr0_u_bpodt' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='pr0_u_bpodt' tag='INPUT' type='text' aaname='' /&gt;" Guid="ccec55fb-7b95-4ea8-8ab3-25b6007d760c" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='c67f-9732' title='Batch Pack Out 60093524' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="730, 545, 157, 34" FriendlyName="'Pack Out Date *'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Pack Out' tag='TABLE' /&gt;&lt;webctrl tableCol='3' tableRow='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Pack Out' tag='TABLE' /&gt;&lt;webctrl type='' aaname='Pack Out Date ' tag='TD' check:text='Pack Out Date *' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1Oma1IN5WxEqVLspZEYtqdA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0LWGlZEH0tEySj0_xVdavNQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8bd145c2b7b6a63e2d1a81e7acebcb8d.png" xmlns="">0QGzPKSBucUKAbFuiU5rYBg</imageRef>
+</TargetAnchorable>

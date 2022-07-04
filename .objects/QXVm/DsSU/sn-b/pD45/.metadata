@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pD45ObrEtUGOiNo90OiZog",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/pD45ObrEtUGOiNo90OiZog",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/sn-bw57ik0SjkCqu_dWLOQ",
+  "Name": "HISTORICAL_SAMPLE_MENU",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-05-19T02:09:30.1320448Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-19T02:09:46.0139539Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

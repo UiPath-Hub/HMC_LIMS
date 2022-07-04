@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="Jq-ygs2AvkOwZMd2g2hNPQ" Reference="ravHvc9Fl0KflCa7O_MBLA/50mfg_Ub00OIUlJhDfNRDg" Selector="&lt;html app='chrome.exe' htmlwindowname='8466-7956' title='Edit Specification RP225N D2502' /&gt;" Url="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2610257&amp;wid=8466-7956" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0VVze6YXTREuU6T2-QE-PRA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2565284941ad333f9c24e1ac78202605.png" xmlns="">0-mE-rbPiCkGo_8SKiWiNaA</imageRef>
+</TargetApp>

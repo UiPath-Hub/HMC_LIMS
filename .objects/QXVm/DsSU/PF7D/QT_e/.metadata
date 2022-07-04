@@ -1,0 +1,16 @@
+﻿{
+  "Id": "QT_ezM32xUGLua1ph1iE5w",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/QT_ezM32xUGLua1ph1iE5w",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/PF7Dvz79qkuh_QRP9o3iOg",
+  "Name": "SEARCH_BATCH_INPUT_BOX",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-04-28T07:50:18.8988787Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T07:50:35.7891004Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotBlendList&amp;_iframename=list" ContentHash="YhN0jpPq6ECPilCox4-UPw" DesignTimeRectangle="18, 288, 1910, 34" FriendlyName="'DIV list_tableheaderdiv'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl id='list_tableheaderdiv' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl id='list_tableheaderdiv' tag='DIV' type='' aaname='' /&gt;" Guid="e2ba45d9-e231-4833-a15e-a79b9227fa77" Reference="ravHvc9Fl0KflCa7O_MBLA/v8TY2IcmW02Y5_Zjd_6h_w" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='dfde-7086' title='Blend &amp;amp; Pack Out List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="21, 263, 98, 20" FriendlyName="'[ 1 selected ]'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='sdidiv' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='sdidiv' tag='DIV' type='' aaname=' [  selected ] ' check:text='[ 1 selected ]' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1qI8wkW8p4k2NczsHKjSCYw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ONXSTmmJ3EuoZ65U08rjqw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a31b03a91f766982c7c9901d959e496b.png" xmlns="">0QurYVA1Ci02PTGwazWEKZQ</imageRef>
+</TargetAnchorable>

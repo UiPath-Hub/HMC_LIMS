@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackOut" ContentHash="3jKLBI3yCUinjDq7Tqs1NA" DesignTimeRectangle="426, 251, 167, 38" FriendlyName="'Send To Verification'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Verification' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Verification' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Send To Verification' /&gt;" Guid="062d3469-c515-4464-b9da-c08f3eb8df37" Reference="ravHvc9Fl0KflCa7O_MBLA/OKmTn_eVGE69tieM6U7dnQ" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='c67f-9732' title='Batch Pack Out 60093524' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="249, 251, 160, 38" FriendlyName="'Generate Pack Out'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='GenLotPack' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='GenLotPack' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Generate Pack Out' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">28sjExr-Gg0mi0cQCMkazWQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">01vAp_uziukmNsgXUY0GHVA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="494a1eba3e90e554c19d71a1d1c40caa.png" xmlns="">0_iqYwy2YzkKKOvmc2P1IQg</imageRef>
+</TargetAnchorable>

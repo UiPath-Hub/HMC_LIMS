@@ -1,0 +1,14 @@
+﻿{
+  "Id": "wLOU8w1mokCXx3QkoXMNCw",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/wLOU8w1mokCXx3QkoXMNCw",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/50mfg_Ub00OIUlJhDfNRDg",
+  "Name": "dtMasterSpec",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-06-21T05:45:11.3732766Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-21T05:45:11.3732766Z"
+}

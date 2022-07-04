@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Sd0bnL_hlUq-dQ3z3lU92Q",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/Sd0bnL_hlUq-dQ3z3lU92Q",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/PF7Dvz79qkuh_QRP9o3iOg",
+  "Name": "SELECT_AND_RETURN_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-28T08:45:27.1640648Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T08:45:27.1640648Z"
+}

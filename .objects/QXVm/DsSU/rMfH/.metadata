@@ -1,0 +1,17 @@
+﻿{
+  "Id": "rMfHoxQTf0y1AiBG2hAF2w",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/rMfHoxQTf0y1AiBG2hAF2w",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "LOG_IN_SCREEN",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-05-24T04:02:12.3566982Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-24T04:02:45.5167713Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

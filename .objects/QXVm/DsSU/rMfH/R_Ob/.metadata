@@ -1,0 +1,13 @@
+﻿{
+  "Id": "R_ObMGd47EKk6scPGfNCJw",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/R_ObMGd47EKk6scPGfNCJw",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/rMfHoxQTf0y1AiBG2hAF2w",
+  "Name": "SIGN_IN_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-05-24T04:02:27.6066355Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-24T04:02:27.6066355Z"
+}

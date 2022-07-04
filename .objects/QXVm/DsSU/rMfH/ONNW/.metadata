@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ONNWJl4Axk-R8h0WK0erDg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/ONNWJl4Axk-R8h0WK0erDg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/rMfHoxQTf0y1AiBG2hAF2w",
+  "Name": "PASSWORD_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Created": "2022-05-24T04:02:26.9503988Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-24T04:02:26.9503988Z"
+}

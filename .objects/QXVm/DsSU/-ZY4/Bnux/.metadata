@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Bnux8iHt1ESSIfzgFO1ksg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/Bnux8iHt1ESSIfzgFO1ksg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/-ZY44fBFFUy29gzZrEjWZA",
+  "Name": "SPECIFICATION",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-06-09T07:28:12.713129Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-21T04:01:44.1369562Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

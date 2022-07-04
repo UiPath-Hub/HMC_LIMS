@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackClassifyCS&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1656481986034" ContentHash="MU4vIGACg0mIImAOvqLHXw" DesignTimeRectangle="34, 215, 33, 31" ElementType="Text" FriendlyName="'Batch'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='tab_maintform__textdiv' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='tab_maintform__textdiv' tag='DIV' type='' aaname='Batch' check:text='Batch' /&gt;" Guid="23278449-0d4a-4847-baad-2ad53fbd5428" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='7878-7ee0' title='Batch Pack Out : 60115787' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="100, 216, 83, 28" ElementType="Text" FriendlyName="'Classify Result'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='tab_maintform1__textdiv' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='tab_maintform1__textdiv' tag='DIV' type='' aaname='Classify Result' check:text='Classify Result' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">8s9N0VRXBDU6AsztW90yN5Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">07pDlnYZxKUi_f_jgDhF1VA</imageRef>
+</TargetAnchorable>
